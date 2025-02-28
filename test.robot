@@ -11,5 +11,5 @@ Search In Google
 
 Open Gmail
     Open Browser    https://www.gmail.com    chrome
-    Sleep    5s
+    Sleep    2s
     Close Browser
