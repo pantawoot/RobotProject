@@ -11,10 +11,10 @@ Search In Google
 
 Open Gmail
     Open Browser    https://www.gmail.com    chrome
-    Sleep    s
+    Sleep    2s
     Close Browser
 
 Open sanook
     Open Browser    https://www.sanook.com    chrome
-    Sleep    s
+    Sleep    5s
     Close Browser
